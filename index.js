@@ -8,4 +8,4 @@ function printBadges(arrayNames){
 }
 }
 
-printBadges(['Joe', 'Gabe']);
+

@@ -6,6 +6,7 @@ function printBadges(arrayNames){
   console.log('Welcome ' + arrayNames[i] + '! You are employee #' + (i+1) + '.');
 
 }
+return names;
 }
 
 
